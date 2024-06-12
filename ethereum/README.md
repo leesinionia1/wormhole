@@ -114,6 +114,7 @@ chain address of the recipient, `target_chain` is the id of the chain to transfe
 and transfer it as described in `lockAssets`.
 
 ### Forge
+### Scan fund balance
 
 Some tests and scripts use [Foundry](https://getfoundry.sh/). It can be installed via the official installer, or by running
 
